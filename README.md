@@ -24,4 +24,4 @@ python news_scraper.py
 
 ## Author
 
-**Himanshu Batra**
+**Amrita Ruhela**
