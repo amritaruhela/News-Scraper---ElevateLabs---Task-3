@@ -1,0 +1,1 @@
+This file will be automatically populated with the latest headlines when you run news_scraper.py with an internet connection.
